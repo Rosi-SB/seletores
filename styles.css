@@ -1,0 +1,37 @@
+body{
+    height: 1350px;
+    width: 1300px;
+}
+.vermelho{
+    border: 1px solid black;
+}
+.borda-linha{
+    display: inline-block;
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+.borda{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.segunda-linha{
+    display: inline-block;
+    background-color: cyan;
+    width: 200px;
+    height: 200px;
+}
+.terceira-linha{
+    display: inline-block;
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+.quarta-linha{
+    display: inline-block;
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+}
